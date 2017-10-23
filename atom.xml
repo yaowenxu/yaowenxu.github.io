@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>代码部落</title>
+  
+  <subtitle>科技与生活用字符同你分享 (公众号：codeTribe)</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://www.ifrom.top/"/>
+  <updated>2017-10-23T15:30:00.000Z</updated>
+  <id>http://www.ifrom.top/</id>
+  
+  <author>
+    <name>徐耀文</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo 建造博客</title>
+    <link href="http://www.ifrom.top/2017/10/23/Hexo-%E5%BB%BA%E9%80%A0%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://www.ifrom.top/2017/10/23/Hexo-建造博客/</id>
+    <published>2017-10-23T13:55:17.000Z</published>
+    <updated>2017-10-23T15:30:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>你好，世界！代码部落，科技与生活用字符同你分享。</code></pre>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;pre&gt;&lt;code&gt;你好，世界！代码部落，科技与生活用字符同你分享。
+&lt;/code&gt;&lt;/pre&gt;
+        
+      
+    
+    </summary>
+    
+      <category term="部落公众号" scheme="http://www.ifrom.top/categories/%E9%83%A8%E8%90%BD%E5%85%AC%E4%BC%97%E5%8F%B7/"/>
+    
+    
+      <category term="Hexo" scheme="http://www.ifrom.top/tags/Hexo/"/>
+    
+  </entry>
+  
+</feed>
