@@ -4,23 +4,8 @@
 
     
   <url>
-    <loc>http://www.ifrom.top/wechat.html</loc>
-    <lastmod>2017-10-24T02:51:21.000Z</lastmod>
-    <data>
-        <display>
-        <title>微信公众号</title>
-        <pubTime>2017-10-24T02:41:51.000Z</pubTime>
-        
-         
-        </display>
-    </data>
-    </url>
-
-    
-    
-  <url>
     <loc>http://www.ifrom.top/2017/10/23/Hexo-%E5%BB%BA%E9%80%A0%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2017-10-23T16:25:08.000Z</lastmod>
+    <lastmod>2017-10-24T07:48:34.000Z</lastmod>
     <data>
         <display>
         <title>Hexo 建造博客</title>
@@ -37,5 +22,35 @@
     </data>
     </url>
 
+    
+  <url>
+    <loc>http://www.ifrom.top/2017/10/24/%E8%AF%84%E8%AE%BA%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2017-10-24T07:48:11.000Z</lastmod>
+    <data>
+        <display>
+        <title>评论测试</title>
+        <pubTime>2017-10-24T07:47:48.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.ifrom.top/wechat.html</loc>
+    <lastmod>2017-10-24T02:51:21.000Z</lastmod>
+    <data>
+        <display>
+        <title>微信公众号</title>
+        <pubTime>2017-10-24T02:41:51.000Z</pubTime>
+        
+         
+        </display>
+    </data>
+    </url>
+
+    
     
 </urlset>
