@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[ssss]]></title>
+    <url>%2F2017%2F10%2F24%2Fssss%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
+    <title><![CDATA[hello world]]></title>
+    <url>%2F2017%2F10%2F24%2Fhello-world%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
+    <title><![CDATA[这是第一篇，文章abc]]></title>
+    <url>%2F2017%2F10%2F24%2F%E8%BF%99%E6%98%AF%E7%AC%AC%E4%B8%80%E7%AF%87%EF%BC%8C%E6%96%87%E7%AB%A0abc%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
     <title><![CDATA[Hexo 建造博客]]></title>
     <url>%2F2017%2F10%2F23%2FHexo-%E5%BB%BA%E9%80%A0%E5%8D%9A%E5%AE%A2%2F</url>
     <content type="text"><![CDATA[你好，世界！代码部落，科技与生活用字符同你分享。微信公众号：代码部落（codeTribe）]]></content>
