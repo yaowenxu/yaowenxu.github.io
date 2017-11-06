@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.ifrom.top/"/>
-  <updated>2017-10-25T09:18:55.000Z</updated>
+  <updated>2017-11-06T09:38:11.000Z</updated>
   <id>https://www.ifrom.top/</id>
   
   <author>
@@ -17,13 +17,23 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>CCF大会2017</title>
-    <link href="https://www.ifrom.top/2017/10/25/CCF%E5%A4%A7%E4%BC%9A2017/"/>
-    <id>https://www.ifrom.top/2017/10/25/CCF大会2017/</id>
-    <published>2017-10-25T09:18:55.000Z</published>
-    <updated>2017-10-25T09:18:55.000Z</updated>
+    <title>Markdown语法简介</title>
+    <link href="https://www.ifrom.top/2017/11/06/Markdown-%E4%BD%A0%E6%89%8B%E8%BE%B9%E7%9A%84%E5%B0%8F%E5%B7%A5%E5%85%B7/"/>
+    <id>https://www.ifrom.top/2017/11/06/Markdown-你手边的小工具/</id>
+    <published>2017-11-06T07:41:20.000Z</published>
+    <updated>2017-11-06T09:38:11.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Markdown是一种轻量级的「标记语言」，通常为程序员群体所用，目前它已是全球最大的技术分享网站 GitHub 和技术问答网站 StackOverFlow 的默认书写格式。有了它你可以专注内容而不是纠结排版。其基本语法也比较简单，花上几分钟的时间就可以轻松掌握它。</p><h2 id="讲解目录"><a href="#讲解目录" class="headerlink" title="讲解目录"></a>讲解目录</h2><ul><li style="list-style: none"><input type="checkbox" checked> 标题</li><li style="list-style: none"><input type="checkbox" checked> 列表</li><li style="list-style: none"><input type="checkbox" checked> 引用</li><li style="list-style: none"><input type="checkbox" checked> 粗体和斜体</li><li style="list-style: none"><input type="checkbox" checked> 链接与图片</li><li style="list-style: none"><input type="checkbox" checked> 分割线</li><li style="list-style: none"><input type="checkbox" checked> 表格</li><li style="list-style: none"><input type="checkbox" checked> 代码高亮</li><li style="list-style: none"><input type="checkbox" checked> 甘特图</li><li style="list-style: none"><input type="checkbox" checked> 流程图</li><li style="list-style: none"><input type="checkbox" checked> 办事清单</li><li style="list-style: none"><input type="checkbox"> 数学公式</li></ul><h2 id="0x00-标题"><a href="#0x00-标题" class="headerlink" title="0x00 标题"></a>0x00 标题</h2><p>在Markdown中，如果想将一段文字定义为标题，只需要在这段文字前面加上 #，再在 # 后加一个空格即可。还可增加二、三、四、五、六级标题，总共六级，只需要增加 # ，增加一个 # ，标题字号相应降低一级<br><img src="1.png" alt=""></p><h2 id="0x01-列表"><a href="#0x01-列表" class="headerlink" title="0x01 列表"></a>0x01 列表</h2><p>列表格式也很常用，它可以让你的文稿变得井井有条。在 Markdown 中，你只需要在文字前面加上 - 就可以了；如果你希望是有序列表，在文字前面加上 1. 2. 3. 即可==，-、1.和文字之间要保留一个字符的空格==。<br><img src="2.png" alt=""></p><h2 id="0x02-引用"><a href="#0x02-引用" class="headerlink" title="0x02 引用"></a>0x02 引用</h2><p>如果你需要在文稿中引用一段别处的句子，那么就要用到「引用」格式。</p><p>在引用文字前加上 &gt; 并与文字保留一个字符的空格，即可。<br><img src="3.png" alt=""></p><h2 id="0x03-粗体斜体"><a href="#0x03-粗体斜体" class="headerlink" title="0x03 粗体斜体"></a>0x03 粗体斜体</h2><p>用两个 * 包含一段文本就是粗体的语法；</p><p>用一个 * 包含一段文本就是斜体的语法。<br><img src="4.png" alt=""></p><h2 id="0x04-链接与图片"><a href="#0x04-链接与图片" class="headerlink" title="0x04 链接与图片"></a>0x04 链接与图片</h2><p>链接：在 Markdown 中，插入链接只需要使用 [显示文本](链接地址) 即可。</p><p>图片：在 Markdown 中，插入图片只需要使用 ![显示文本](图片链接地址)即可。<br><img src="5.png" alt=""></p><h2 id="0x05-分割线"><a href="#0x05-分割线" class="headerlink" title="0x05 分割线"></a>0x05 分割线</h2><p>分割线的语法只需要另起一行，连续输入三个星号 <em>*</em> 、— 即可分割两段文字内容。<br><img src="6.png" alt=""></p><h2 id="0x06-表格"><a href="#0x06-表格" class="headerlink" title="0x06 表格"></a>0x06 表格</h2><p>在Markdown文稿中键入表格键入：<br><img src="7.png" alt=""></p><h2 id="0x07-代码高亮"><a href="#0x07-代码高亮" class="headerlink" title="0x07 代码高亮"></a>0x07 代码高亮</h2><p>“```” 开始和结束，并在开始处说语言类型:<br><img src="8.png" alt=""></p><h2 id="0x08-流程图"><a href="#0x08-流程图" class="headerlink" title="0x08 流程图"></a>0x08 流程图</h2><p>流程图语法见下图，详细文档参考:<br><a href="http://knsv.github.io/mermaid/#flowcharts-basic-syntax" target="_blank" rel="external">http://knsv.github.io/mermaid/#flowcharts-basic-syntax</a><br><img src="9.png" alt=""></p><h2 id="0x09-甘特图"><a href="#0x09-甘特图" class="headerlink" title="0x09 甘特图"></a>0x09 甘特图</h2><p>甘特图语法见下图，详细文档参考:<br><a href="http://knsv.github.io/mermaid/#styling39" target="_blank" rel="external">http://knsv.github.io/mermaid/#styling39</a><br><img src="10.png" alt=""></p><h2 id="0x0a-办事清单"><a href="#0x0a-办事清单" class="headerlink" title="0x0a 办事清单"></a>0x0a 办事清单</h2><p>待办事项和清单在日常工作、生活中经常被使用。</p><p>在Markdown中，你只需要在待办的事项文本或者清单文本前加上- [ ]、- [x]即可。</p><p> - [ ] 表示未完成，- [x] 表示已完成。</p><p>注：键入字符与字符之间都要保留一个字符的空格。</p><p><img src="11.png" alt=""></p><blockquote><p>注：如果要支持流程图和甘特图等，markdown需要安装绘图插件-<a href="https://github.com/knsv/mermaid" target="_blank" rel="external">mermaid</a><br>当然如果你们想要拥有更多的功能，也可以安装更多好用的markdown插件。</p><p>作者：John<br>  地点：东北大学浑南校区<br>  时间：2017年11月06日15:34:33<br>  声明：资源部分借鉴于网络，如有侵犯版权，请于本文作者联系。</p></blockquote>]]></content>
     
     <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Markdown是一种轻量级的「标记语言」，通常为程序员群体所用，目前它已是全球最大的技术分享网站 GitHub 和技术问答网站 StackOverFlow
+        
+      
     
     </summary>
     
@@ -35,9 +45,9 @@
     <link href="https://www.ifrom.top/2017/10/23/Hexo-%E5%BB%BA%E9%80%A0%E5%8D%9A%E5%AE%A2/"/>
     <id>https://www.ifrom.top/2017/10/23/Hexo-建造博客/</id>
     <published>2017-10-23T13:55:17.000Z</published>
-    <updated>2017-10-24T16:02:14.000Z</updated>
+    <updated>2017-11-06T09:34:25.000Z</updated>
     
-    <content type="html"><![CDATA[<pre><code>你好，世界！代码部落，科技与生活用字符同你分享。微信公众号：代码部落（codeTribe）</code></pre>]]></content>
+    <content type="html"><![CDATA[<pre><code>你好，世界！代码部落，科技与生活用字符同你分享。微信公众号：代码部落（codeTribe）  我们期待您的关注！</code></pre><h4 id="公众号简介："><a href="#公众号简介：" class="headerlink" title="公众号简介："></a>公众号简介：</h4><p>哇~，好多东西都不会啊/(ㄒoㄒ)/~~，好懒啊，不想动，不想学习。算了，搞个公众号督促一下自己吧。啥有趣写啥。大家一起交流哈。</p><hr><p><img src="/img/wechat-08.jpg" alt="wechat"></p><hr>]]></content>
     
     <summary type="html">
     
@@ -45,8 +55,9 @@
       
         
         
-          &lt;pre&gt;&lt;code&gt;你好，世界！代码部落，科技与生活用字符同你分享。微信公众号：代码部落（codeTribe）
-&lt;/code&gt;&lt;/pre&gt;
+          &lt;pre&gt;&lt;code&gt;你好，世界！代码部落，科技与生活用字符同你分享。微信公众号：代码部落（codeTribe）  
+我们期待您的关注！
+&lt;/code&gt;&lt;/pre&gt;&lt;h4 id=&quot;公众号简介：&quot;&gt;&lt;a href=&quot;#公众号简介：&quot; class=&quot;headerlink&quot;
         
       
     
