@@ -11,8 +11,6 @@ tags:
 
   <i class="fa fa-github"> Github:</i> [@yaowenxu](https://github.com/yaowenxu)
 
-  <i class="fa fa-weibo"> Weibo:</i> [JohnIO](http://weibo.com/p/1005052346130892/home?from=page_100505&mod=TAB&is_all=1#place)
-
   <i class="fa fa-linux"> Linux:</i> [Centos](https://www.centos.org) 
 
   <i class="fa fa-fire"> Motto:</i> 孤独生，如果还有明天。

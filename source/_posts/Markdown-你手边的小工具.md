@@ -1,5 +1,5 @@
 ---
-title: Markdown语法简介
+title: Markdown
 date: 2017-11-06 15:41:20
 tags:
 - markdown
