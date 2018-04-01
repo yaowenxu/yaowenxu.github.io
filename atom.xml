@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>字符部落</title>
+  <title>Yaowen·Xu</title>
   
-  <subtitle>科技与生活用字符同你分享 (公众号：codeTribe)</subtitle>
+  <subtitle>A student in China, Major in Computer Science (公众号：codeTribe)</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.ifrom.top/"/>
@@ -10,7 +10,7 @@
   <id>https://www.ifrom.top/</id>
   
   <author>
-    <name>徐耀文</name>
+    <name>xuyaowen</name>
     
   </author>
   
