@@ -60,28 +60,32 @@ widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts
   - links
 
 links:
-  - title: Subscribe
-    url: /atom.xml
-  - title: CNBlogs
+  - title: 博客园站点
     url: http://www.cnblogs.com/xuyaowen
-  - title: Northeastern University
-    url: http://www.neu.edu.cn
-  - title: Github 
+  - title: GitHub
     url: https://github.com/yaowenxu
+  - title: 东北大学 NEU（本科学校）
+    url: http://www.neu.edu.cn
+  - title: 北京航空航大学 BUAA（研究生） 
+    url: https://github.com/yaowenxu
+  - title: 订阅博客
+    url: /atom.xml
 
 timeline:
   - num: 1
-    word: 2017/10/01 代码部落起源
+    word: 2017/10/01 代码部落起源，当时保研结束，有时间进行瞎折腾。
   - num: 2
-    word: 2017/10/23 部落静态博客上线
+    word: 2017/10/23 部落静态博客上线，简单发布几篇小文章，内容质量很低。
   - num: 3
-    word: 2017/10/25 参加CNCC2017大会-福建·福州
+    word: 2017/10/25 参加CNCC2017大会-福建·福州，获得 CCF 2017优秀大学生奖。
   - num: 4
-    word: 2018/4/1 依然毫无起色
+    word: 2018/4/1 依然毫无起色，不知道写些什么，后专注于硕士学习。
+  - num: 5
+    word: 2021/3/21 更新博客相关信息并修改错误链接，标志着博客生命周期告一段落。
 
 # Static files
 js: js
 css: css
 
 # Theme version
-version: 0.0.0
+version: 1.0.0
