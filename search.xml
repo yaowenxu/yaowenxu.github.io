@@ -1,39 +1,129 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title><![CDATA[主流单反品牌简明介绍（2017）]]></title>
-    <url>%2F2017%2F11%2F06%2F%E3%80%90%E6%B1%82%E7%9F%A5%E3%80%91%E5%A4%A7%E8%AF%9D%E5%8D%95%E5%8F%8D%E5%93%81%E7%89%8C%2F</url>
-    <content type="text"><![CDATA[0x00 前言调研单反品牌。SLR camera 为 Single Lens Reflex Camera 缩写，它是指用单镜头，并且光线通过此镜头照射到反光镜上，通过反光取景的相机。 0x01 初探首先我在狗东、某宝等电商平台上进行检索「单反」关键词。进行统计得：目前市面上大致有:佳能（Canon)、尼康（Nikon)、宾得(Pentax)、索尼(Sony)、徕卡(Leica)、松下(Panasonic)、通用电气(GE)、卡西欧(Casio)、哈苏(Hasselblad)、富士(Fujifilm)、奥林巴斯(Olympus)、飞思(Phase One)、适马(Sigma)、宝达(Protax)、三星(Samsung)、理光(理光)、柯达(Kodak)、明基(BenQ)、爱国者(aigo)、锡恩帝(CENDE)等大约20个品牌。 0x02 亮相下面通过品牌来展示每个厂家的商标。 0x03 简评可见，在国内市场上见到的众多单反品牌日本品牌居多。据统计日本品牌占有市场88.0% 韩国品牌占有4.6% 国产品牌占有3.6% 欧洲品牌占有3.0% 美国品牌占有0.4% 其他0.4% 简单分析日本品牌占有率居高，大体原因有四： 一、日系相机功能全面； 二、日系相机较易驾驭； 三、日系相机价格适中； 四、日系相机品牌颇多； 市场占有率数据源： 佳能31.7%尼康23.7%索尼15.3%富士4.9%三星4.6%卡西欧3.6%宾得理光3.4%（宾得3.0% 理光0.4%）松下2.8%奥林巴斯2.4%徕卡2.2%（其实真的卖不出去几只，不过买一只顶10只）哈苏0.5%（与徕卡同理）其他4.9% 最后，看了这么多，琳琅满目的品牌，看到自己的腰包，不仅咽了咽口水。在我看来，无论你拥有什么样的单反，你都走进了摄影爱好者或职业摄影师的行列。接下来我们需要做的就是打开相机去发现美。去感受，去进步。]]></content>
-      <categories>
-        <category>单反</category>
-      </categories>
-      <tags>
-        <tag>SLR</tag>
-        <tag>单反</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[简明 Markdown 教程]]></title>
-    <url>%2F2017%2F11%2F06%2FMarkdown-%E4%BD%A0%E6%89%8B%E8%BE%B9%E7%9A%84%E5%B0%8F%E5%B7%A5%E5%85%B7%2F</url>
-    <content type="text"><![CDATA[Markdown是一种轻量级的「标记语言」，通常为程序员群体所用，目前它已是全球最大的技术分享网站 GitHub 和技术问答网站 StackOverFlow 的默认书写格式。有了它你可以专注内容而不是纠结排版。其基本语法也比较简单，花上几分钟的时间就可以轻松掌握它。 讲解目录 标题 列表 引用 粗体和斜体 链接与图片 分割线 表格 代码高亮 甘特图 流程图 办事清单 数学公式 0x00 标题在Markdown中，如果想将一段文字定义为标题，只需要在这段文字前面加上 #，再在 # 后加一个空格即可。还可增加二、三、四、五、六级标题，总共六级，只需要增加 # ，增加一个 # ，标题字号相应降低一级 0x01 列表列表格式也很常用，它可以让你的文稿变得井井有条。在 Markdown 中，你只需要在文字前面加上 - 就可以了；如果你希望是有序列表，在文字前面加上 1. 2. 3. 即可==，-、1.和文字之间要保留一个字符的空格==。 0x02 引用如果你需要在文稿中引用一段别处的句子，那么就要用到「引用」格式。 在引用文字前加上 &gt; 并与文字保留一个字符的空格，即可。 0x03 粗体斜体用两个 * 包含一段文本就是粗体的语法； 用一个 * 包含一段文本就是斜体的语法。 0x04 链接与图片链接：在 Markdown 中，插入链接只需要使用 [显示文本](链接地址) 即可。 图片：在 Markdown 中，插入图片只需要使用 ![显示文本](图片链接地址)即可。 0x05 分割线分割线的语法只需要另起一行，连续输入三个星号 * 、— 即可分割两段文字内容。 0x06 表格在Markdown文稿中键入表格键入： 0x07 代码高亮“```” 开始和结束，并在开始处说语言类型: 0x08 流程图流程图语法见下图，详细文档参考:http://knsv.github.io/mermaid/#flowcharts-basic-syntax 0x09 甘特图甘特图语法见下图，详细文档参考:http://knsv.github.io/mermaid/#styling39 0x0a 办事清单待办事项和清单在日常工作、生活中经常被使用。 在Markdown中，你只需要在待办的事项文本或者清单文本前加上- [ ]、- [x]即可。 - [ ] 表示未完成，- [x] 表示已完成。 注：键入字符与字符之间都要保留一个字符的空格。 注：如果要支持流程图和甘特图等，markdown需要安装绘图插件-mermaid当然如果你们想要拥有更多的功能，也可以安装更多好用的markdown插件。 作者：John 地点：东北大学浑南校区 时间：2017年11月06日15:34:33 声明：资源部分借鉴于网络，如有侵犯版权，请于本文作者联系。]]></content>
-      <categories>
-        <category>小工具</category>
-      </categories>
-      <tags>
-        <tag>Markdown</tag>
-        <tag>教程</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[欢迎（Welcome）]]></title>
-    <url>%2F2017%2F10%2F23%2FHexo-%E5%BB%BA%E9%80%A0%E5%8D%9A%E5%AE%A2%2F</url>
-    <content type="text"><![CDATA[你好，世界！科技与生活用字符同你分享。期待您的关注！ 但这是我的本科时搭建的旧博客，很久不用了。(更新:2021年03月21日) 日常更新博客，请关注：https://www.cnblogs.com/xuyaowen ；]]></content>
-      <categories>
-        <category>博客</category>
-      </categories>
-      <tags>
-        <tag>博客</tag>
-        <tag>公告</tag>
-      </tags>
-  </entry>
+<search> 
+  
+    
+    <entry>
+      <title><![CDATA[主流单反品牌简明介绍（2017）]]></title>
+      <url>/2017/11/06/%E3%80%90%E6%B1%82%E7%9F%A5%E3%80%91%E5%A4%A7%E8%AF%9D%E5%8D%95%E5%8F%8D%E5%93%81%E7%89%8C/</url>
+      <content type="html"><![CDATA[<h2 id="0x00-前言"><a href="#0x00-前言" class="headerlink" title="0x00 前言"></a>0x00 前言</h2><p>调研单反品牌。SLR camera 为 Single Lens Reflex Camera 缩写，它是指用单镜头，并且光线通过此镜头照射到反光镜上，通过反光取景的相机。</p>
+<h2 id="0x01-初探"><a href="#0x01-初探" class="headerlink" title="0x01 初探"></a>0x01 初探</h2><p>首先我在狗东、某宝等电商平台上进行检索「单反」关键词。进行统计得：目前市面上大致有:佳能（Canon)、尼康（Nikon)、宾得(Pentax)、索尼(Sony)、徕卡(Leica)、松下(Panasonic)、通用电气(GE)、卡西欧(Casio)、哈苏(Hasselblad)、富士(Fujifilm)、奥林巴斯(Olympus)、飞思(Phase One)、适马(Sigma)、宝达(Protax)、三星(Samsung)、理光(理光)、柯达(Kodak)、明基(BenQ)、爱国者(aigo)、锡恩帝(CENDE)等大约20个品牌。</p>
+<h2 id="0x02-亮相"><a href="#0x02-亮相" class="headerlink" title="0x02 亮相"></a>0x02 亮相</h2><p>下面通过品牌来展示每个厂家的商标。<br><img src="canon.jpg" alt="佳能·日本"><br><img src="Nikon.jpg" alt="尼康·日本"><br><img src="宾得.jpg" alt="宾得·日本"><br><img src="sony.jpg" alt="索尼·日本"><br><img src="徕卡.jpg" alt="徕卡·德国"><br><img src="松下.jpg" alt="松下·日本"><br><img src="通用电气.jpg" alt="通用电气·美国"><br><img src="casio.jpg" alt="卡西欧·日本"><br><img src="哈苏.jpg" alt="哈苏·瑞典"><br><img src="富士.jpg" alt="富士·日本"><br><img src="奥林巴斯.jpg" alt="奥林巴斯·日本"><br><img src="飞思.png" alt="飞思·丹麦"><br><img src="适马.jpg" alt="适马·日本"><br><img src="宝达.png" alt="宝达·台湾"><br><img src="三星.jpg" alt="三星·韩国"><br><img src="理光.jpg" alt="理光·日本"><br><img src="柯达.jpg" alt="柯达·美国"><br><img src="明基.png" alt="明基·台湾"><br><img src="aigo.png" alt="爱国者·中国"><br><img src="cende.jpg" alt="锡恩帝(Cende)"></p>
+<h2 id="0x03-简评"><a href="#0x03-简评" class="headerlink" title="0x03 简评"></a>0x03 简评</h2><p>可见，在国内市场上见到的众多单反品牌日本品牌居多。据统计日本品牌占有市场88.0%  韩国品牌占有4.6%  国产品牌占有3.6% 欧洲品牌占有3.0% 美国品牌占有0.4% 其他0.4%</p>
+<p>简单分析日本品牌占有率居高，大体原因有四：</p>
+<p>一、日系相机功能全面；</p>
+<p>二、日系相机较易驾驭；</p>
+<p>三、日系相机价格适中；</p>
+<p>四、日系相机品牌颇多；</p>
+<p>市场占有率<a href="http://www.ccsph.com/detail_4139.html" target="_blank" rel="external">数据源</a>：</p>
+<p>佳能31.7%<br>尼康23.7%<br>索尼15.3%<br>富士4.9%<br>三星4.6%<br>卡西欧3.6%<br>宾得理光3.4%（宾得3.0% 理光0.4%）<br>松下2.8%<br>奥林巴斯2.4%<br>徕卡2.2%（其实真的卖不出去几只，不过买一只顶10只）<br>哈苏0.5%（与徕卡同理）<br>其他4.9%  </p>
+<hr>
+<p>最后，看了这么多，琳琅满目的品牌，看到自己的腰包，不仅咽了咽口水。在我看来，无论你拥有什么样的单反，你都走进了摄影爱好者或职业摄影师的行列。接下来我们需要做的就是打开相机去发现美。去感受，去进步。</p>
+]]></content>
+      
+        <categories>
+            
+            <category> 单反 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> SLR </tag>
+            
+            <tag> 单反 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[简明 Markdown 教程]]></title>
+      <url>/2017/11/06/Markdown-%E4%BD%A0%E6%89%8B%E8%BE%B9%E7%9A%84%E5%B0%8F%E5%B7%A5%E5%85%B7/</url>
+      <content type="html"><![CDATA[<p>Markdown是一种轻量级的「标记语言」，通常为程序员群体所用，目前它已是全球最大的技术分享网站 GitHub 和技术问答网站 StackOverFlow 的默认书写格式。有了它你可以专注内容而不是纠结排版。其基本语法也比较简单，花上几分钟的时间就可以轻松掌握它。</p>
+<h2 id="讲解目录"><a href="#讲解目录" class="headerlink" title="讲解目录"></a>讲解目录</h2><ul>
+<li style="list-style: none"><input type="checkbox" checked> 标题</li>
+<li style="list-style: none"><input type="checkbox" checked> 列表</li>
+<li style="list-style: none"><input type="checkbox" checked> 引用</li>
+<li style="list-style: none"><input type="checkbox" checked> 粗体和斜体</li>
+<li style="list-style: none"><input type="checkbox" checked> 链接与图片</li>
+<li style="list-style: none"><input type="checkbox" checked> 分割线</li>
+<li style="list-style: none"><input type="checkbox" checked> 表格</li>
+<li style="list-style: none"><input type="checkbox" checked> 代码高亮</li>
+<li style="list-style: none"><input type="checkbox" checked> 甘特图</li>
+<li style="list-style: none"><input type="checkbox" checked> 流程图</li>
+<li style="list-style: none"><input type="checkbox" checked> 办事清单</li>
+<li style="list-style: none"><input type="checkbox"> 数学公式</li>
+</ul>
+<h2 id="0x00-标题"><a href="#0x00-标题" class="headerlink" title="0x00 标题"></a>0x00 标题</h2><p>在Markdown中，如果想将一段文字定义为标题，只需要在这段文字前面加上 #，再在 # 后加一个空格即可。还可增加二、三、四、五、六级标题，总共六级，只需要增加 # ，增加一个 # ，标题字号相应降低一级<br><img src="1.png" alt=""></p>
+<h2 id="0x01-列表"><a href="#0x01-列表" class="headerlink" title="0x01 列表"></a>0x01 列表</h2><p>列表格式也很常用，它可以让你的文稿变得井井有条。在 Markdown 中，你只需要在文字前面加上 - 就可以了；如果你希望是有序列表，在文字前面加上 1. 2. 3. 即可==，-、1.和文字之间要保留一个字符的空格==。<br><img src="2.png" alt=""></p>
+<h2 id="0x02-引用"><a href="#0x02-引用" class="headerlink" title="0x02 引用"></a>0x02 引用</h2><p>如果你需要在文稿中引用一段别处的句子，那么就要用到「引用」格式。</p>
+<p>在引用文字前加上 &gt; 并与文字保留一个字符的空格，即可。<br><img src="3.png" alt=""></p>
+<h2 id="0x03-粗体斜体"><a href="#0x03-粗体斜体" class="headerlink" title="0x03 粗体斜体"></a>0x03 粗体斜体</h2><p>用两个 * 包含一段文本就是粗体的语法；</p>
+<p>用一个 * 包含一段文本就是斜体的语法。<br><img src="4.png" alt=""></p>
+<h2 id="0x04-链接与图片"><a href="#0x04-链接与图片" class="headerlink" title="0x04 链接与图片"></a>0x04 链接与图片</h2><p>链接：在 Markdown 中，插入链接只需要使用 [显示文本](链接地址) 即可。</p>
+<p>图片：在 Markdown 中，插入图片只需要使用 ![显示文本](图片链接地址)即可。<br><img src="5.png" alt=""></p>
+<h2 id="0x05-分割线"><a href="#0x05-分割线" class="headerlink" title="0x05 分割线"></a>0x05 分割线</h2><p>分割线的语法只需要另起一行，连续输入三个星号 <em>*</em> 、— 即可分割两段文字内容。<br><img src="6.png" alt=""></p>
+<h2 id="0x06-表格"><a href="#0x06-表格" class="headerlink" title="0x06 表格"></a>0x06 表格</h2><p>在Markdown文稿中键入表格键入：<br><img src="7.png" alt=""></p>
+<h2 id="0x07-代码高亮"><a href="#0x07-代码高亮" class="headerlink" title="0x07 代码高亮"></a>0x07 代码高亮</h2><p>“```” 开始和结束，并在开始处说语言类型:<br><img src="8.png" alt=""></p>
+<h2 id="0x08-流程图"><a href="#0x08-流程图" class="headerlink" title="0x08 流程图"></a>0x08 流程图</h2><p>流程图语法见下图，详细文档参考:<br><a href="http://knsv.github.io/mermaid/#flowcharts-basic-syntax" target="_blank" rel="external">http://knsv.github.io/mermaid/#flowcharts-basic-syntax</a><br><img src="9.png" alt=""></p>
+<h2 id="0x09-甘特图"><a href="#0x09-甘特图" class="headerlink" title="0x09 甘特图"></a>0x09 甘特图</h2><p>甘特图语法见下图，详细文档参考:<br><a href="http://knsv.github.io/mermaid/#styling39" target="_blank" rel="external">http://knsv.github.io/mermaid/#styling39</a><br><img src="10.png" alt=""></p>
+<h2 id="0x0a-办事清单"><a href="#0x0a-办事清单" class="headerlink" title="0x0a 办事清单"></a>0x0a 办事清单</h2><p>待办事项和清单在日常工作、生活中经常被使用。</p>
+<p>在Markdown中，你只需要在待办的事项文本或者清单文本前加上- [ ]、- [x]即可。</p>
+<p> - [ ] 表示未完成，- [x] 表示已完成。</p>
+<p>注：键入字符与字符之间都要保留一个字符的空格。</p>
+<p><img src="11.png" alt=""></p>
+<blockquote>
+<p>注：如果要支持流程图和甘特图等，markdown需要安装绘图插件-<a href="https://github.com/knsv/mermaid" target="_blank" rel="external">mermaid</a><br>当然如果你们想要拥有更多的功能，也可以安装更多好用的markdown插件。</p>
+<p>作者：John<br>  地点：东北大学浑南校区<br>  时间：2017年11月06日15:34:33<br>  声明：资源部分借鉴于网络，如有侵犯版权，请于本文作者联系。</p>
+</blockquote>
+]]></content>
+      
+        <categories>
+            
+            <category> 小工具 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> Markdown </tag>
+            
+            <tag> 教程 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[欢迎（Welcome）]]></title>
+      <url>/2017/10/23/Hexo-%E5%BB%BA%E9%80%A0%E5%8D%9A%E5%AE%A2/</url>
+      <content type="html"><![CDATA[<ul>
+<li>你好，世界！科技与生活用字符同你分享。期待您的关注！</li>
+<li>但这是我的本科时搭建的旧博客，很久不用了。(更新:2021年03月21日)</li>
+<li>日常更新博客，请关注：<a href="https://www.cnblogs.com/xuyaowen" target="_blank" rel="external">https://www.cnblogs.com/xuyaowen</a> ；</li>
+</ul>
+<hr>
+]]></content>
+      
+        <categories>
+            
+            <category> 博客 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 博客 </tag>
+            
+            <tag> 公告 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+  
+  
 </search>
